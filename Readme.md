@@ -5,6 +5,7 @@ Hi, I am Anuran Barman, Software Engineer from West Bengal, India.
 - :briefcase: Senior Software Engineer at WiZN Systems Private Limited
 - :heart: Love making full stack (Backend + Mobile App) projects and learning new technologies
 - :video_game: While not coding, I love to play Games on my Playstation or drive my :oncoming_automobile:
+- :globe_with_meridians: To learn more about me and my projects visit [my website](https://anuranbarman.com).
 
 ![Anuran's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuranBarman&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)
 
